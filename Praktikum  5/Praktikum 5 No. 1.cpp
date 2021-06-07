@@ -1,5 +1,5 @@
 //		Nama	: Filza Hisana Hizbullah	
-//		NIM		: 20051397018
+//		NIM	: 20051397018
 //		Kelas	: 2020B
 //		Prodi	: D IV Manajemen Informatika
 //		Tugas	: Praktikum 5 - Struktur Data 		
